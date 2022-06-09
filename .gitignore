@@ -2,6 +2,7 @@
 */.ipynb_checkpoints/*
 # MacOS Setup
 .DS_Store
+*/.DS_Store
 # Python cache files
 .py[cdo]
 # Important files
