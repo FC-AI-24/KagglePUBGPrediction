@@ -21,7 +21,7 @@
 [DataLeakage 관련 토론](https://www.kaggle.com/competitions/pubg-finish-placement-prediction/discussion/79161)
 
 ## 파일 설명
-**[pubg_01.BaseModel.ipynb](pubg_01.BaseModel.ipynb)**
+**[pubg_01.BaseModel.ipynb](pubg_01.BaseModelScore.ipynb)**
 - 성능 비교를 위한 자체 BaseModel 제작
 - numeric column 데이터 XGBoost CrossValidation 학습 진행
 - score 0.090
